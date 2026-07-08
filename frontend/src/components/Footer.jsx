@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Twitter, Youtube } from 'lucide-react';
 import { fallbackImages } from './assetMap.js';
 
@@ -12,8 +11,8 @@ const social = [
 
 const importantLinks = [
   ['Home', '/'],
-  ['Who we are', '/#about-us'],
-  ['What We Do', '/#what-we-do'],
+  ['Who we are', '/about'],
+  ['What We Do', '/projects'],
   ['Latest News', '/activities#newsletter-writing'],
   ['Projects', '/projects'],
   ['Activities', '/activities']
@@ -51,7 +50,13 @@ export default function Footer() {
           <h3 className="text-sm font-black uppercase tracking-[0.2em] text-gm-sky">Important Links</h3>
           <div className="mt-5 grid gap-3 text-sm text-white/70">
             {importantLinks.map(([label, to]) => (
-              <Link key={label} to={to} className="transition hover:text-white">{label}</Link>
+              <a
+                key={label}
+                href={to}
+                className="w-fit transition hover:text-white"
+              >
+                {label}
+              </a>
             ))}
           </div>
         </div>
