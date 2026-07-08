@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { ChevronDown, HeartHandshake, Menu, X } from 'lucide-react';
+import { fallbackImages } from './assetMap.js';
 
 const projectItems = [
   { label: 'Village Mapping', to: '/projects#village-mapping' },
@@ -103,9 +104,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-white/70 bg-white/90 backdrop-blur-xl">
       <nav className="section-shell flex h-20 items-center justify-between gap-6">
         <Link to="/" className="flex items-center gap-3">
-          <span className="grid h-12 w-12 place-items-center rounded-2xl bg-gm-navy text-lg font-black text-white">
-            GM
-          </span>
+          <img src={fallbackImages.logo} alt="GroupMappers" className="h-12 w-28 object-contain" />
           <span>
             <strong className="block text-lg font-black leading-none text-gm-navy">GroupMappers</strong>
             <small className="text-xs font-bold text-gm-sky">Crowdsourced geospatial public health</small>

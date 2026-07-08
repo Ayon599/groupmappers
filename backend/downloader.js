@@ -19,6 +19,18 @@ const http = axios.create({
   }
 });
 
+const stylesheetHttp = axios.create({
+  timeout: 8000,
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (compatible; GroupMappersImageDownloader/1.0)'
+  }
+});
+
+const ignoredImagePathPatterns = [
+  /\/wp-content\/themes\/consulting\/assets\/css\/images\/pattern_[34]\.png$/i,
+  /\/wp-content\/images\/pattern_[34]\.png$/i
+];
+
 function toAbsoluteUrl(rawUrl, baseUrl = SITE_URL) {
   if (!rawUrl) return null;
 
@@ -31,12 +43,36 @@ function toAbsoluteUrl(rawUrl, baseUrl = SITE_URL) {
     return null;
   }
 
+  if (/[\s<>]/.test(clean) || clean.length < 2) {
+    return null;
+  }
+
   if (clean.startsWith('//')) return `https:${clean}`;
 
   try {
     return new URL(clean, baseUrl).href;
   } catch {
     return null;
+  }
+}
+
+function isLikelyImageUrl(url) {
+  if (!url) return false;
+
+  try {
+    const parsed = new URL(url);
+    const pathname = parsed.pathname.toLowerCase();
+    if (ignoredImagePathPatterns.some((pattern) => pattern.test(pathname))) return false;
+    return (
+      /\.(jpe?g|png|webp|gif|svg|ico|avif)$/i.test(pathname) ||
+      pathname.includes('/wp-content/uploads/') ||
+      pathname.includes('/wp-content/themes/') ||
+      pathname.includes('/wp-content/plugins/') ||
+      pathname.includes('favicon') ||
+      pathname.includes('logo')
+    );
+  } catch {
+    return false;
   }
 }
 
@@ -53,7 +89,7 @@ function extractCssUrls(cssText, baseUrl = SITE_URL) {
 
   for (const match of matches) {
     const absolute = toAbsoluteUrl(match[2], baseUrl);
-    if (absolute) urls.push(absolute);
+    if (isLikelyImageUrl(absolute)) urls.push(absolute);
   }
 
   return urls;
@@ -119,7 +155,7 @@ function uniqueFilename(item, index, contentType, usedNames) {
 }
 
 function addImage(found, item) {
-  if (!item.url || found.has(item.url)) return;
+  if (!item.url || found.has(item.url) || !isLikelyImageUrl(item.url)) return;
   found.set(item.url, item);
 }
 
@@ -204,12 +240,16 @@ async function collectImagesFromPage() {
 
   for (const stylesheetUrl of stylesheetUrls) {
     try {
-      const { data: cssText } = await http.get(stylesheetUrl);
+      const { data: cssText } = await stylesheetHttp.get(stylesheetUrl);
       for (const url of extractCssUrls(cssText, stylesheetUrl)) {
         addImage(found, { url, source: 'stylesheet' });
       }
     } catch (error) {
-      console.warn(`Could not parse stylesheet ${stylesheetUrl}: ${error.message}`);
+      const timedOut = error.code === 'ECONNABORTED' || /timeout/i.test(error.message);
+      const status = error.response?.status;
+      if (!timedOut && ![403, 404, 410].includes(status)) {
+        console.warn(`Could not parse stylesheet ${stylesheetUrl}: ${error.message}`);
+      }
     }
   }
 
@@ -223,7 +263,7 @@ async function downloadImage(item, index, usedNames) {
   });
 
   const contentType = response.headers['content-type'] || '';
-  const looksLikeImage = contentType.startsWith('image/') || /\.(jpe?g|png|webp|gif|svg|ico|avif)(\?|$)/i.test(item.url);
+  const looksLikeImage = contentType.startsWith('image/') || isLikelyImageUrl(item.url);
 
   if (!looksLikeImage) {
     throw new Error(`Not an image response: ${contentType || 'unknown content type'}`);
@@ -260,6 +300,8 @@ async function main() {
       manifest.push(saved);
       console.log(`Downloaded ${saved.filename}`);
     } catch (error) {
+      const status = error.response?.status;
+      if (status && [404, 410].includes(status)) continue;
       console.warn(`Skipped ${item.url}: ${error.message}`);
     }
   }

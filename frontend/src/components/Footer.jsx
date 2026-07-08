@@ -1,4 +1,5 @@
 import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Twitter, Youtube } from 'lucide-react';
+import { fallbackImages } from './assetMap.js';
 
 const social = [
   ['Facebook', Facebook],
@@ -13,6 +14,7 @@ export default function Footer() {
     <footer id="contact-us" className="bg-[#07182c] py-16 text-white">
       <div className="section-shell grid gap-10 lg:grid-cols-[1.1fr_0.9fr_0.8fr]">
         <div>
+          <img src={fallbackImages.logo} alt="GroupMappers" className="mb-5 h-16 w-40 object-contain brightness-0 invert" />
           <h2 className="text-2xl font-black">GroupMappers</h2>
           <p className="mt-4 max-w-md text-sm leading-7 text-white/65">
             A crowdsourcing geospatial initiative working to improve public health outcomes through mapping, data analysis, volunteer action, and community support.

@@ -18,20 +18,20 @@ const domains = [
 ];
 
 const projects = [
-  ['Village Mapping', '2017-ongoing', 'Malaria'],
-  ['G6PD Testing for Malaria Treatment', '2022-ongoing', 'Malaria'],
-  ['Piloting Village-level Malaria Surveillance in Lama, Bandarban', '2022', 'Malaria'],
-  ['Malaria API Tracker', '2021', 'Malaria'],
-  ['Crisis Ready Project (CRP)', '2022', 'Covid-19'],
-  ['Mask Study', '2021', 'Covid-19'],
-  ['Covid-19 Risk Zoning', '2020', 'Covid-19'],
-  ['Dengue Risk Tracker', '2021', 'Dengue'],
-  ['Dengue Household Survey', '2019', 'Dengue'],
-  ['Mass Dog Vaccination Program', '2018-Ongoing', 'Rabies'],
-  ['The Global Health Facilities Database (GHFD)', '2020-ongoing', 'Non Diseases']
+  ['Village Mapping', '2017-ongoing', 'Malaria', 'group-photo-1'],
+  ['G6PD Testing for Malaria Treatment', '2022-ongoing', 'Malaria', 'group-photo-2'],
+  ['Piloting Village-level Malaria Surveillance in Lama, Bandarban', '2022', 'Malaria', 'group-photo-3'],
+  ['Malaria API Tracker', '2021', 'Malaria', 'malariaTracker'],
+  ['Crisis Ready Project (CRP)', '2022', 'Covid-19', 'showcase'],
+  ['Mask Study', '2021', 'Covid-19', 'covidMask'],
+  ['Covid-19 Risk Zoning', '2020', 'Covid-19', 'showcase'],
+  ['Dengue Risk Tracker', '2021', 'Dengue', 'who-we-are'],
+  ['Dengue Household Survey', '2019', 'Dengue', 'group-photo-4'],
+  ['Mass Dog Vaccination Program', '2018-Ongoing', 'Rabies', 'rabies'],
+  ['The Global Health Facilities Database (GHFD)', '2020-ongoing', 'Non Diseases', 'showcase']
 ];
 
-export default function Projects() {
+export default function Projects({ images }) {
   return (
     <main className="bg-slate-50">
       <section className="section-shell py-20 lg:py-28">
@@ -57,11 +57,18 @@ export default function Projects() {
         <div className="section-shell">
           <p className="eyebrow">Project list</p>
           <div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {projects.map(([title, year, category]) => (
-              <article key={title} id={title.toLowerCase().replaceAll(' ', '-')} className="rounded-[1.5rem] border border-slate-200 p-6">
-                <span className="rounded-full bg-gm-mint px-3 py-1 text-xs font-black text-gm-green">{category}</span>
-                <h3 className="mt-4 text-xl font-black text-gm-navy">{title}</h3>
-                <p className="mt-2 text-sm font-bold text-slate-500">{year}</p>
+            {projects.map(([title, year, category, imageKey]) => (
+              <article key={title} id={title.toLowerCase().replaceAll(' ', '-')} className="overflow-hidden rounded-[1.5rem] border border-slate-200 bg-white">
+                <img
+                  src={images[imageKey] || images.hero}
+                  alt={title}
+                  className="h-44 w-full object-cover"
+                />
+                <div className="p-6">
+                  <span className="rounded-full bg-gm-mint px-3 py-1 text-xs font-black text-gm-green">{category}</span>
+                  <h3 className="mt-4 text-xl font-black text-gm-navy">{title}</h3>
+                  <p className="mt-2 text-sm font-bold text-slate-500">{year}</p>
+                </div>
               </article>
             ))}
           </div>

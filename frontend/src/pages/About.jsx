@@ -2,16 +2,19 @@ const founders = [
   {
     name: 'Richard Maude',
     role: 'Head of Epidemiology',
+    imageKey: 'richard',
     body: 'Professor Maude is Head of the Epidemiology Department at Mahidol-Oxford Tropical Medicine Research Unit, Bangkok, Thailand. His research combines clinical studies, descriptive epidemiology and mathematical modelling of human diseases.'
   },
   {
     name: 'Ipsita Sinha',
     role: 'Research Physician',
+    imageKey: 'sinha',
     body: 'Dr Ipsita Sinha is part of the Epidemiology department at MORU, and a Research Physician in Tropical Medicine at the University of Oxford. She is also an honorary medical registrar at the John Radcliffe Hospital in Oxford.'
   },
   {
     name: 'Sazid Ibna Zaman',
     role: 'Data Manager & GIS Specialist',
+    imageKey: 'sazid',
     body: 'Based in Dhaka, Bangladesh, Sazid Ibna Zaman is a Data Manager & GIS Specialist for the MORU Epidemiology departments at the Mahidol Oxford Tropical Medicine Research Unit (MORU), Bangkok, Thailand.'
   }
 ];
@@ -54,13 +57,23 @@ export default function About({ images }) {
           <h2 className="mt-4 text-4xl font-black tracking-[-0.04em] text-gm-navy">Founders and leadership</h2>
           <div className="mt-10 grid gap-6 md:grid-cols-3">
             {founders.map((founder) => (
-              <article key={founder.name} className="rounded-[1.75rem] border border-slate-200 bg-white p-7 shadow-sm">
-                <div className="grid h-16 w-16 place-items-center rounded-2xl bg-gm-navy text-xl font-black text-white">
-                  {founder.name.split(' ').map((part) => part[0]).join('')}
-                </div>
+              <article key={founder.name} className="overflow-hidden rounded-[1.75rem] border border-slate-200 bg-white shadow-sm">
+                {images[founder.imageKey] ? (
+                  <img
+                    src={images[founder.imageKey]}
+                    alt={founder.name}
+                    className="h-72 w-full object-cover object-top"
+                  />
+                ) : (
+                  <div className="m-7 grid h-16 w-16 place-items-center rounded-2xl bg-gm-navy text-xl font-black text-white">
+                    {founder.name.split(' ').map((part) => part[0]).join('')}
+                  </div>
+                )}
+                <div className="p-7">
                 <h3 className="mt-6 text-2xl font-black text-gm-navy">{founder.name}</h3>
                 <p className="mt-1 text-sm font-black text-gm-sky">{founder.role}</p>
                 <p className="mt-4 text-sm leading-7 text-slate-600">{founder.body}</p>
+                </div>
               </article>
             ))}
           </div>

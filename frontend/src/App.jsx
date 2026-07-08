@@ -17,7 +17,13 @@ export default function App() {
       .then((response) => response.json())
       .then((manifest) => {
         const mapped = manifest.reduce((acc, item) => {
-          acc[item.key] = `${API_BASE}${item.localPath}`;
+          if (!item.localPath) return acc;
+          const imageUrl = `${API_BASE}${item.localPath}`;
+          if (item.key) acc[item.key] = imageUrl;
+          if (item.filename) {
+            acc[item.filename] = imageUrl;
+            acc[item.filename.replace(/\.[^.]+$/, '')] = imageUrl;
+          }
           return acc;
         }, {});
         setImages((current) => ({ ...current, ...mapped }));
@@ -34,7 +40,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<HomePage images={images} />} />
           <Route path="/about" element={<About images={images} />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/projects" element={<Projects images={images} />} />
           <Route path="/activities" element={<Activities images={images} />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>

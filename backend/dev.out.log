@@ -1,0 +1,7 @@
+
+> groupmappers-backend@1.0.0 dev
+> node --watch server.js
+
+Backend running at http://localhost:5000
+Images served from http://localhost:5000/assets/images/
+[0mGET /api/health [32m200[0m 3.759 ms - 47[0m
