@@ -1,11 +1,13 @@
 const API_BASE = import.meta.env.VITE_API_BASE_URL || (
-  typeof window === 'undefined'
-    ? 'http://localhost:5000'
-    : `http://${window.location.hostname}:5000`
+  import.meta.env.DEV && typeof window !== 'undefined'
+    ? `http://${window.location.hostname}:5000`
+    : ''
 );
 
+const ASSET_BASE = import.meta.env.VITE_ASSET_BASE_URL || '';
+
 export function asset(filename) {
-  return `${API_BASE}/assets/images/${filename}`;
+  return `${ASSET_BASE}/assets/images/${filename}`;
 }
 
 export const fallbackImages = {
@@ -34,4 +36,4 @@ export const fallbackImages = {
   sazid: asset('sazid-ibna-zaman-879x1024.jpg')
 };
 
-export { API_BASE };
+export { API_BASE, ASSET_BASE };
