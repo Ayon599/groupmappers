@@ -15,6 +15,12 @@ const activities = [
     body: 'Volunteers can contribute by writing for newsletters and communicating the impact of GroupMappers mapping, field data, and public-health projects.'
   },
   {
+    title: 'GroupLetters',
+    imageKey: 'showcase',
+    href: '/groupletters',
+    body: 'GroupLetters share field updates, training notes, and stories from GroupMappers community work.'
+  },
+  {
     title: 'GIS/RS club cafes',
     imageKey: 'group-photo-3',
     body: 'Volunteers can conduct sessions in GIS/RS club cafes, sharing technical knowledge in geospatial techniques, mapping, and public health.'
@@ -58,6 +64,7 @@ export default function Activities({ images }) {
               <div className="p-7">
                 <h2 className="text-2xl font-black text-gm-navy">{activity.title}</h2>
                 <p className="mt-3 text-sm leading-7 text-slate-600">{activity.body}</p>
+                {activity.href && <a href={activity.href} className="mt-5 inline-flex text-sm font-black text-gm-sky">Open page</a>}
               </div>
             </article>
           ))}

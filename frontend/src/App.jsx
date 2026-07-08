@@ -8,6 +8,12 @@ import About from './pages/About.jsx';
 import Projects from './pages/Projects.jsx';
 import Activities from './pages/Activities.jsx';
 import Contact from './pages/Contact.jsx';
+import Donate from './pages/Donate.jsx';
+import ProjectDetail from './pages/ProjectDetail.jsx';
+import TeamMembers from './pages/TeamMembers.jsx';
+import Gallery from './pages/Gallery.jsx';
+import LatestNews from './pages/LatestNews.jsx';
+import GroupLetters from './pages/GroupLetters.jsx';
 
 function ScrollToHash() {
   const location = useLocation();
@@ -63,8 +69,14 @@ export default function App() {
           <Route path="/" element={<HomePage images={images} />} />
           <Route path="/about" element={<About images={images} />} />
           <Route path="/projects" element={<Projects images={images} />} />
+          <Route path="/projects/:slug" element={<ProjectDetail images={images} />} />
           <Route path="/activities" element={<Activities images={images} />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/donate-us" element={<Donate images={images} />} />
+          <Route path="/team-members" element={<TeamMembers images={images} />} />
+          <Route path="/gallery" element={<Gallery images={images} />} />
+          <Route path="/latest-news" element={<LatestNews />} />
+          <Route path="/groupletters" element={<GroupLetters />} />
         </Routes>
         <Footer />
       </div>

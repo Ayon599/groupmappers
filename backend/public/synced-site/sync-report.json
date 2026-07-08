@@ -1,0 +1,36 @@
+{
+  "target": "https://groupmappers.com",
+  "syncedAt": "2026-07-08T09:29:02.844Z",
+  "pages": [
+    {
+      "route": "home",
+      "source": "https://groupmappers.com/",
+      "output": "/index.html",
+      "ok": true
+    },
+    {
+      "route": "about",
+      "source": "https://groupmappers.com/",
+      "output": "/about/index.html",
+      "ok": true
+    },
+    {
+      "route": "projects",
+      "source": "https://groupmappers.com/",
+      "output": "/projects/index.html",
+      "ok": true
+    },
+    {
+      "route": "contact",
+      "source": "https://groupmappers.com/contact-us/",
+      "output": "/contact/index.html",
+      "ok": true
+    },
+    {
+      "route": "donate",
+      "source": "https://groupmappers.com/fundraising/",
+      "output": "/donate-us/index.html",
+      "ok": true
+    }
+  ]
+}

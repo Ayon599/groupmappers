@@ -13,9 +13,12 @@ const importantLinks = [
   ['Home', '/'],
   ['Who we are', '/about'],
   ['What We Do', '/projects'],
-  ['Latest News', '/activities#newsletter-writing'],
+  ['Latest News', '/latest-news'],
   ['Projects', '/projects'],
-  ['Activities', '/activities']
+  ['Activities', '/activities'],
+  ['Team Members', '/team-members'],
+  ['Gallery', '/gallery'],
+  ['Donate Us', '/donate-us']
 ];
 
 export default function Footer() {

@@ -2,21 +2,12 @@ import { useRef, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { ChevronDown, HeartHandshake, Menu, X } from 'lucide-react';
 import { fallbackImages } from './assetMap.js';
+import { aboutMenuItems, activityMenuItems, projectGroups, slugify } from '../data/siteContent.js';
 
-const projectItems = [
-  { label: 'Village Mapping', to: '/projects#village-mapping' },
-  { label: 'Malaria API Tracker', to: '/projects#malaria-api-tracker' },
-  { label: 'Dengue Risk Tracker', to: '/projects#dengue-risk-tracker' },
-  { label: 'Mass Dog Vaccination', to: '/projects#mass-dog-vaccination' },
-  { label: 'Global Health Facilities Database', to: '/projects#global-health-facilities-database' }
-];
-
-const activityItems = [
-  { label: 'Volunteering', to: '/activities#volunteering' },
-  { label: 'GIS/RS Club Cafes', to: '/activities#gis-rs-club-cafes' },
-  { label: 'Fundraising', to: '/activities#fundraising' },
-  { label: 'Newsletter Writing', to: '/activities#newsletter-writing' }
-];
+const projectItems = projectGroups.flatMap((group) => [
+  { label: group.group, to: '/projects', heading: true },
+  ...group.items.map(([title]) => ({ label: title, to: `/projects/${slugify(title)}` }))
+]);
 
 function activeClass({ isActive }) {
   return `text-sm font-bold transition ${isActive ? 'text-gm-sky' : 'text-slate-600 hover:text-gm-sky'}`;
@@ -80,15 +71,21 @@ function Dropdown({ label, items, openMenu, setOpenMenu }) {
       >
         <div className="rounded-2xl border border-slate-200 bg-white p-3 shadow-soft">
           {items.map((item) => (
-            <Link
-              key={item.label}
-              to={item.to}
-              onClick={() => setOpenMenu(null)}
-              className="block rounded-xl px-4 py-3 text-sm font-bold text-slate-600 transition hover:bg-sky-50 hover:text-gm-sky"
-              role="menuitem"
-            >
-              {item.label}
-            </Link>
+            item.heading ? (
+              <p key={item.label} className="px-4 pb-1 pt-3 text-[11px] font-black uppercase tracking-[0.18em] text-gm-sky">
+                {item.label}
+              </p>
+            ) : (
+              <Link
+                key={item.label}
+                to={item.to}
+                onClick={() => setOpenMenu(null)}
+                className="block rounded-xl px-4 py-3 text-sm font-bold text-slate-600 transition hover:bg-sky-50 hover:text-gm-sky"
+                role="menuitem"
+              >
+                {item.label}
+              </Link>
+            )
           ))}
         </div>
       </div>
@@ -113,17 +110,17 @@ export default function Navbar() {
 
         <div className="hidden items-center gap-8 lg:flex">
           <NavLink to="/" className={activeClass}>Home</NavLink>
-          <NavLink to="/about" className={activeClass}>About Us</NavLink>
+          <Dropdown label="About Us" items={aboutMenuItems} openMenu={openMenu} setOpenMenu={setOpenMenu} />
           <Dropdown label="Project" items={projectItems} openMenu={openMenu} setOpenMenu={setOpenMenu} />
-          <Dropdown label="Activities" items={activityItems} openMenu={openMenu} setOpenMenu={setOpenMenu} />
+          <Dropdown label="Activities" items={activityMenuItems} openMenu={openMenu} setOpenMenu={setOpenMenu} />
           <NavLink to="/contact" className={activeClass}>Contact Us</NavLink>
         </div>
 
         <div className="flex items-center gap-3">
-          <a href="#donate" className="hidden items-center gap-2 rounded-full bg-gm-green px-5 py-3 text-sm font-black text-white shadow-lg shadow-emerald-500/20 transition hover:-translate-y-0.5 hover:bg-emerald-500 sm:flex">
+          <Link to="/donate-us" className="hidden items-center gap-2 rounded-full bg-gm-green px-5 py-3 text-sm font-black text-white shadow-lg shadow-emerald-500/20 transition hover:-translate-y-0.5 hover:bg-emerald-500 sm:flex">
             <HeartHandshake size={17} />
             Donate Us
-          </a>
+          </Link>
           <button
             type="button"
             onClick={() => setMobileOpen((current) => !current)}
@@ -142,7 +139,11 @@ export default function Navbar() {
             ['About Us', '/about'],
             ['Projects', '/projects'],
             ['Activities', '/activities'],
-            ['Contact Us', '/contact']
+            ['Team Members', '/team-members'],
+            ['Gallery', '/gallery'],
+            ['Latest News', '/latest-news'],
+            ['Contact Us', '/contact'],
+            ['Donate Us', '/donate-us']
           ].map(([label, to]) => (
             <Link
               key={label}

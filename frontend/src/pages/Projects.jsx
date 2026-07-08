@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom';
+import { projects } from '../data/siteContent.js';
+
 const domains = [
   {
     title: 'Data collection & management',
@@ -15,20 +18,6 @@ const domains = [
     title: 'Data dissemination and sharing',
     body: 'GroupMappers provides support for making geospatial data accessible to stakeholders and end-users. This support includes data publishing, sharing, and implementation of data access policies.'
   }
-];
-
-const projects = [
-  ['Village Mapping', '2017-ongoing', 'Malaria', 'group-photo-1'],
-  ['G6PD Testing for Malaria Treatment', '2022-ongoing', 'Malaria', 'group-photo-2'],
-  ['Piloting Village-level Malaria Surveillance in Lama, Bandarban', '2022', 'Malaria', 'group-photo-3'],
-  ['Malaria API Tracker', '2021', 'Malaria', 'malariaTracker'],
-  ['Crisis Ready Project (CRP)', '2022', 'Covid-19', 'showcase'],
-  ['Mask Study', '2021', 'Covid-19', 'covidMask'],
-  ['Covid-19 Risk Zoning', '2020', 'Covid-19', 'showcase'],
-  ['Dengue Risk Tracker', '2021', 'Dengue', 'who-we-are'],
-  ['Dengue Household Survey', '2019', 'Dengue', 'group-photo-4'],
-  ['Mass Dog Vaccination Program', '2018-Ongoing', 'Rabies', 'rabies'],
-  ['The Global Health Facilities Database (GHFD)', '2020-ongoing', 'Non Diseases', 'showcase']
 ];
 
 export default function Projects({ images }) {
@@ -53,21 +42,24 @@ export default function Projects({ images }) {
         </div>
       </section>
 
-      <section className="bg-white py-20">
+      <section id="what-we-do" className="bg-white py-20">
         <div className="section-shell">
           <p className="eyebrow">Project list</p>
           <div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {projects.map(([title, year, category, imageKey]) => (
-              <article key={title} id={title.toLowerCase().replaceAll(' ', '-')} className="overflow-hidden rounded-[1.5rem] border border-slate-200 bg-white">
+            {projects.map((project) => (
+              <article key={project.slug} id={project.slug} className="overflow-hidden rounded-[1.5rem] border border-slate-200 bg-white">
                 <img
-                  src={images[imageKey] || images.hero}
-                  alt={title}
+                  src={images[project.imageKey] || images.hero}
+                  alt={project.title}
                   className="h-44 w-full object-cover"
                 />
                 <div className="p-6">
-                  <span className="rounded-full bg-gm-mint px-3 py-1 text-xs font-black text-gm-green">{category}</span>
-                  <h3 className="mt-4 text-xl font-black text-gm-navy">{title}</h3>
-                  <p className="mt-2 text-sm font-bold text-slate-500">{year}</p>
+                  <span className="rounded-full bg-gm-mint px-3 py-1 text-xs font-black text-gm-green">{project.category}</span>
+                  <h3 className="mt-4 text-xl font-black text-gm-navy">{project.title}</h3>
+                  <p className="mt-2 text-sm font-bold text-slate-500">{project.year}</p>
+                  <Link to={`/projects/${project.slug}`} className="mt-5 inline-flex text-sm font-black text-gm-sky">
+                    View project
+                  </Link>
                 </div>
               </article>
             ))}

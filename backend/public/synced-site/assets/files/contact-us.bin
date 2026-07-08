@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en-US" class="stm-site-preloader">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://groupmappers.com/xmlrpc.php" />
+	<title>Contact Us &#8211; GroupMappers</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="GroupMappers &raquo; Feed" href="https://groupmappers.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GroupMappers &raquo; Comments Feed" href="https://groupmappers.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://groupmappers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgroupmappers.com%2Fcontact-us%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://groupmappers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgroupmappers.com%2Fcontact-us%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='sbi_styles-css' href='https://groupmappers.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://groupmappers.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.7.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://groupmappers.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.4' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='cost-calculator-builder-calculator-selector-style-inline-css' type='text/css'>
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+.ccb-gutenberg-block {
+  padding: 20px;
+  border: 1px solid black;
+}
+.ccb-gutenberg-block__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.ccb-gutenberg-block__icon {
+  margin-right: 20px;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
+/*# sourceURL=https://groupmappers.com/wp-content/plugins/cost-calculator-builder/includes/gutenberg-block/build/style-index.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}body .is-layout-flex{display: flex;}body .is-layout-grid{display: grid;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://groupmappers.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='stm-stm-css' href='https://groupmappers.com/wp-content/uploads/stm_fonts/stm/stm.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='https://groupmappers.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.48.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='https://groupmappers.com/wp-content/uploads/elementor/css/post-6.css?ver=1780993852' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sbistyles-css' href='https://groupmappers.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-google_maps-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-10355-css' href='https://groupmappers.com/wp-content/uploads/elementor/css/post-10355.css?ver=1780997844' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-11686-css' href='https://groupmappers.com/wp-content/uploads/elementor/css/post-11686.css?ver=1780993852' type='text/css' media='all' />
+<link rel='stylesheet' id='stm-gdpr-styles-css' href='https://groupmappers.com/wp-content/plugins/stm-gdpr-compliance/assets/css/styles.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css' href='https://groupmappers.com/wp-content/plugins/stm-post-type/theme-options/nuxy/metaboxes/assets/vendors/font-awesome.min.css?ver=1783498859' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/bootstrap.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/font-awesome.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-style-css' href='https://groupmappers.com/wp-content/themes/consulting/style.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-layout-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/layouts/layout_san_francisco/main.css?ver=6.4.2' type='text/css' media='all' />
+<style id='consulting-layout-inline-css' type='text/css'>
+.page_title{ background-repeat: no-repeat !important; background-repeat: url(http://n) !important; }.mtc, .mtc_h:hover{
+					color: #1c1c1c!important
+				}.stc, .stc_h:hover{
+					color: #fde428!important
+				}.ttc, .ttc_h:hover{
+					color: #fde427!important
+				}.mbc, .mbc_h:hover, .stm-search .stm_widget_search button{
+					background-color: #1c1c1c!important
+				}.sbc, .sbc_h:hover{
+					background-color: #fde428!important
+				}.tbc, .tbc_h:hover{
+					background-color: #fde427!important
+				}.mbdc, .mbdc_h:hover{
+					border-color: #1c1c1c!important
+				}.sbdc, .sbdc_h:hover{
+					border-color: #fde428!important
+				}.tbdc, .tbdc_h:hover{
+					border-color: #fde427!important
+				}
+/*# sourceURL=consulting-layout-inline-css */
+</style>
+<link rel='stylesheet' id='select2-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/select2.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='header_builder-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/header_builder.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-default-font-css' href='https://fonts.googleapis.com/css?family=Mulish%3A200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900%2C200italic%2C300italic%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic&#038;ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/jquery.fancybox.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stm-skin-custom-generated-css' href='https://groupmappers.com/wp-content/uploads/stm_uploads/skin-custom.css?ver=324032' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-theme-options-css' href='https://groupmappers.com/wp-content/uploads/stm_uploads/theme_options.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-global-styles-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/layouts/global_styles/main.css?ver=6.4.2' type='text/css' media='all' />
+<style id='consulting-global-styles-inline-css' type='text/css'>
+	
+		.elementor-widget-video .eicon-play {
+			border-color: rgba(46,174,34,1);
+			background-color: rgba(46,174,34,1);
+		}
+		.elementor-widget-wp-widget-nav_menu ul li,
+		.elementor-widget-wp-widget-nav_menu ul li a {
+			color: #121E62;
+		}
+		.elementor-widget-wp-widget-nav_menu ul li.current-cat:hover > a,
+		.elementor-widget-wp-widget-nav_menu ul li.current-cat > a,
+		.elementor-widget-wp-widget-nav_menu ul li.current-menu-item:hover > a,
+		.elementor-widget-wp-widget-nav_menu ul li.current-menu-item > a,
+		.elementor-widget-wp-widget-nav_menu ul li.current_page_item:hover > a,
+		.elementor-widget-wp-widget-nav_menu ul li.current_page_item > a,
+		.elementor-widget-wp-widget-nav_menu ul li:hover > a {
+			border-left-color: #121E62;
+		}
+		div.elementor-widget-button a.elementor-button,
+		div.elementor-widget-button .elementor-button {
+			background-color: #121E62;
+		}
+		div.elementor-widget-button a.elementor-button:hover,
+		div.elementor-widget-button .elementor-button:hover {
+			background-color: rgba(46,174,34,1);
+			color: #121E62;
+		}
+		.elementor-default .elementor-text-editor ul:not(.elementor-editor-element-settings) li:before,
+		.elementor-default .elementor-widget-text-editor ul:not(.elementor-editor-element-settings) li:before {
+			color: #121E62;
+		}
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title,
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title {
+			background-color: rgba(46,174,34,1);
+		}
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title,
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title a {
+			color: #121E62;
+		}
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title.elementor-active,
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.elementor-active {
+			background-color: #121E62;
+		}
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title.elementor-active,
+		.consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.elementor-active a {
+			color: rgba(46,174,34,1);
+		}
+		.radial-progress .circle .mask .fill {
+			background-color: rgba(46,174,34,1);
+		}
+		html body #header .top_bar {
+			background-color: #121E62;
+		}
+		html body #header .top_bar .container .lang_sel > ul > li .lang_sel_sel,
+		html body #header .top_bar .container .lang_sel > ul > li > ul a {
+			color: #ffffff;
+		}
+		html body #header .top_bar .container .lang_sel > ul > li .lang_sel_sel:after {
+			border-top: 5px solid #ffffff;
+		}
+		html body #header .top_bar .container .lang_sel > ul > li > ul {
+			background-color: #121E62;
+		}
+		html body #header .top_bar .container .lang_sel > ul > li > ul a:hover {
+			background-color: #121E62;
+		}
+		html body #header .top_bar .container .top_bar_cart .count {
+			background-color: ;
+		}
+		html body #header .top_bar .container .top_bar_cart a {
+			color: ;
+		}
+		html body #header .top_bar .container .top_bar_search .search-icon {
+			color: ;
+		}
+		html body #header .top_bar .container .top_bar_socials a {
+			color: ;
+		}
+		html body #header .top_bar .container .top_bar_socials a:hover {
+			color: ;
+		}
+		html body #header .top_bar .container .top_bar_info_wr .top_bar_info li,
+		html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher ul li a {
+			color: rgba(255,255,255,1);
+		}
+		html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher {
+			background-color: rgba(46,174,34,1);
+		}
+		html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher .active:after {
+			border-top: 5px solid #121E62;
+		}
+		html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher ul {
+			background-color: #121E62;
+		}
+		html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher ul li a:hover {
+			background-color: #121E62;
+		}
+	
+
+	
+	:root {
+	--con_base_color: #1c1c1c;
+	--con_secondary_color: #fde428;
+	--con_third_color: #fde427;
+	--con_primary_font_family: Mulish;
+	--con_secondary_font_family: Mulish;
+	}
+	
+	:root {
+	--top_bar_bg: #121E62;--offices_contact_color: rgba(255,255,255,1);--con_header_nav_background_color: rgba(253,253,150,1);--con_header_search_icon_color: #121E62;--con_header_search_icon_color_hover: #121E62;--con_header_socials_icon_color: rgba(46,174,34,1);--con_header_socials_icon_color_hover: #121E62;--con_header_button_border_radius: 30px 30px 30px 30px;--con_header_button_text_transform: uppercase;--con_header_button_font_size: 14px;--con_header_button_bg: #121E62;--con_header_button_mobile_text_transform: uppercase;--con_header_nav_menu_link_text_transform: normal;--con_header_nav_menu_link_line_height: 20px;--con_header_nav_menu_link_font_weight: 700;--con_header_nav_menu_link_font_size: 18px;--con_header_nav_menu_link_color_active: #121E62;--con_header_nav_menu_link_color_hover: #121E62;--con_header_nav_menu_link_arrow_color: #121E62;--con_header_nav_menu_link_arrow_color_hover: #121E62;--con_header_nav_menu_level_1_bg: #FDFD96;--con_header_nav_menu_level_1_link_text_transform: normal;--con_header_nav_menu_level_1_link_font_weight: 700;--con_header_nav_menu_level_2_link_text_transform: normal;--con_header_mega_menu_title_transform: normal;--con_header_mega_menu_link_text_transform: normal;	}
+	
+/*# sourceURL=consulting-global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='stm_megamenu-css' href='https://groupmappers.com/wp-content/themes/consulting/inc/megamenu/assets/css/megamenu.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://groupmappers.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742241243' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://groupmappers.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742241244' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://groupmappers.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.0.3" id="font-awesome-4-shim-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/themes/consulting/inc/megamenu/assets/js/megamenu.js?ver=6.9.4" id="stm_megamenu-js"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-PHGHPRZT" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["groupmappers.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-PHGHPRZT");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://groupmappers.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://groupmappers.com/wp-json/wp/v2/pages/10355" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://groupmappers.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel="canonical" href="https://groupmappers.com/contact-us/" />
+<link rel='shortlink' href='https://groupmappers.com/?p=10355' />
+<meta name="cdp-version" content="1.5.0" /><script type="text/javascript">window.ccb_nonces = {"ccb_payment":"379d615329","ccb_contact_form":"81c77cae3a","ccb_woo_checkout":"d2de9c859f","ccb_add_order":"17f340d5f1","ccb_orders":"6a67164b77","ccb_complete_payment":"583d63cd15","ccb_send_invoice":"ec43eec860","ccb_get_invoice":"9532df6926","ccb_wp_hook_nonce":"051cae9a58","ccb_razorpay_receive":"59d0d9841d","ccb_woocommerce_payment":"e8b100730e","ccb_calc_views":"ce2c34a943","ccb_calc_interactions":"dfc8e9a1ff"};</script><meta name="generator" content="Site Kit by Google 1.170.0" />	<script type="text/javascript">
+		var stm_wpcfto_ajaxurl = 'https://groupmappers.com/wp-admin/admin-ajax.php';
+	</script>
+
+	<style>
+		.vue_is_disabled {
+			display: none;
+		}
+	</style>
+		<script>
+		var stm_wpcfto_nonces = {"wpcfto_save_settings":"a2511f6c2a","get_image_url":"f2972fb4d9","wpcfto_upload_file":"bf6da64f43","wpcfto_search_posts":"bfce92ee7f"};
+	</script>
+			<script type="text/javascript">
+			var ajaxurl = 'https://groupmappers.com/wp-admin/admin-ajax.php';
+			var stm_ajax_load_events = '95c402d37b';
+			var stm_ajax_load_portfolio = 'e39536c02c';
+			var stm_ajax_add_event_member_sc = '9f112f460c';
+			var stm_custom_register = 'bce27ca2f8';
+			var stm_get_prices = 'e93ffef9f9';
+			var stm_get_history = 'd383f05888';
+			var stm_ajax_add_review = 'baae5fd089';
+			var stm_ajax_add_pear_hb = 'e62fa42422';
+		</script>
+		<meta name="generator" content="Elementor 4.0.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+		<style>
+			#wp-admin-bar-consulting_settings			img {
+				max-width: 25px;
+				vertical-align: top;
+				position: relative;
+				top: 3px;
+			}
+		</style>
+					<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by Slider Revolution 6.6.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://groupmappers.com/wp-content/uploads/2023/10/cropped-new_logo-removebg-preview-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://groupmappers.com/wp-content/uploads/2023/10/cropped-new_logo-removebg-preview-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://groupmappers.com/wp-content/uploads/2023/10/cropped-new_logo-removebg-preview-180x180.png" />
+<meta name="msapplication-TileImage" content="https://groupmappers.com/wp-content/uploads/2023/10/cropped-new_logo-removebg-preview-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+</head>
+
+<body class="wp-singular page-template-default page page-id-10355 wp-theme-consulting ehf-header ehf-template-consulting ehf-stylesheet-consulting site_layout_san_francisco  mobile_grid_landscape elementor-default elementor-kit-6 elementor-page elementor-page-10355">
+
+    <div id="wrapper">
+
+        <div id="page" class="hfeed site">
+
+		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://groupmappers.com" title="GroupMappers" rel="home">GroupMappers</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="11686" class="elementor elementor-11686">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-468f510 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="468f510" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4ec365d" data-id="4ec365d" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fce91e3 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="fce91e3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://groupmappers.com/">
+							<img fetchpriority="high" width="1024" height="283" src="https://groupmappers.com/wp-content/uploads/2023/04/GRPMbd-1024x283.png" class="attachment-large size-large wp-image-12512" alt="" srcset="https://groupmappers.com/wp-content/uploads/2023/04/GRPMbd-1024x283.png 1024w, https://groupmappers.com/wp-content/uploads/2023/04/GRPMbd-300x83.png 300w, https://groupmappers.com/wp-content/uploads/2023/04/GRPMbd-768x212.png 768w, https://groupmappers.com/wp-content/uploads/2023/04/GRPMbd-900x249.png 900w, https://groupmappers.com/wp-content/uploads/2023/04/GRPMbd.png 1486w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-843f282" data-id="843f282" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-68de090 hfe-nav-menu__align-center hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="68de090" data-element_type="widget" data-e-type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
+				<div class="elementor-widget-container">
+								<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+				<div role="button" class="hfe-nav-menu__toggle elementor-clickable" tabindex="0" aria-label="Menu Toggle">
+					<span class="screen-reader-text">Menu</span>
+					<div class="hfe-nav-menu-icon">
+						<i aria-hidden="true"  class="fas fa-align-justify"></i>					</div>
+				</div>
+				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
+					<ul id="menu-1-68de090" class="hfe-nav-menu"><li id="menu-item-10505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home parent hfe-creative-menu"><a href="https://groupmappers.com/" class = "hfe-menu-item">Home</a></li>
+<li id="menu-item-10555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-menu-item">About Us<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-10559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/#who-we-are" class = "hfe-sub-menu-item">Who we are</a></li>
+	<li id="menu-item-10305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/#what-we-do" class = "hfe-sub-menu-item">What we do</a></li>
+	<li id="menu-item-10556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/#mission" class = "hfe-sub-menu-item">Mission</a></li>
+	<li id="menu-item-10557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/#founders" class = "hfe-sub-menu-item">Founders</a></li>
+	<li id="menu-item-10987" class="menu-item menu-item-type-post_type menu-item-object-page stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/team-members/" class = "hfe-sub-menu-item">Team Members</a></li>
+	<li id="menu-item-11180" class="menu-item menu-item-type-post_type menu-item-object-page stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/gallery/" class = "hfe-sub-menu-item">Gallery</a></li>
+	<li id="menu-item-10307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/#latest-news" class = "hfe-sub-menu-item">Latest news</a></li>
+</ul>
+</li>
+<li id="menu-item-10306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#13" class = "hfe-menu-item">Project<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-12100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Diseases<span class='hfe-menu-toggle sub-arrow hfe-menu-child-1'><i class='fa'></i></span></a></div>
+	<ul class="sub-menu">
+		<li id="menu-item-12102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_mega_second_col_width_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Malaria<span class='hfe-menu-toggle sub-arrow hfe-menu-child-2'><i class='fa'></i></span></a></div>
+		<ul class="sub-menu">
+			<li id="menu-item-12118" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/village-mapping/" class = "hfe-sub-menu-item">Village Mapping (2017-ongoing)</a></li>
+			<li id="menu-item-10549" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/g6pd-testing-for-malaria-treatment/" class = "hfe-sub-menu-item">G6PD Testing for Malaria Treatment (2022- ongoing)</a></li>
+			<li id="menu-item-10551" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/piloting-village-level-malaria-surveillance-in-lama-bandarban/" class = "hfe-sub-menu-item">Piloting Village-level Malaria Surveillance in Lama, Bandarban. (2022)</a></li>
+			<li id="menu-item-10547" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/malaria-api-tracker/" class = "hfe-sub-menu-item">Malaria API Tracker (2021)</a></li>
+			<li id="menu-item-12759" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/global-fund-2025/" class = "hfe-sub-menu-item">Global Fund 2025</a></li>
+			<li id="menu-item-12803" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/apmen-knowledge-repository/" class = "hfe-sub-menu-item">APMEN Knowledge Repository</a></li>
+			<li id="menu-item-12848" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/dqa/" class = "hfe-sub-menu-item">DQA</a></li>
+			<li id="menu-item-12849" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/cpe/" class = "hfe-sub-menu-item">CPE</a></li>
+		</ul>
+</li>
+		<li id="menu-item-12103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_mega_second_col_width_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Covid-19<span class='hfe-menu-toggle sub-arrow hfe-menu-child-2'><i class='fa'></i></span></a></div>
+		<ul class="sub-menu">
+			<li id="menu-item-10550" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/crp-assessing-mobility-data-for-guiding-disaster-response-in-the-greater-mekong-subregion-and-bangladesh-crisis-ready/" class = "hfe-sub-menu-item">Crisis Ready Project (CRP) (2022)</a></li>
+			<li id="menu-item-12143" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/mask-study/" class = "hfe-sub-menu-item">Mask Study (2021)</a></li>
+			<li id="menu-item-10538" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/covid-19/" class = "hfe-sub-menu-item">Covid-19 Risk Zoning (2020)</a></li>
+			<li id="menu-item-10542" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/physical-accessibility-to-covid-19-related-health-services-analysis-moru/" class = "hfe-sub-menu-item">Physical Accessibility to COVID-19 Related Health Services Analysis – Bnagladesh (2020)</a></li>
+			<li id="menu-item-12135" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/real-time-population-mapping-to-assess-the-impact-of-travel-restrictions-and-social-distancing-on-covid-19-spread-2020/" class = "hfe-sub-menu-item">Real-time population mapping to assess the impact of travel restrictions and social distancing on COVID-19 spread (2020)</a></li>
+		</ul>
+</li>
+		<li id="menu-item-12104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_mega_second_col_width_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Dengue<span class='hfe-menu-toggle sub-arrow hfe-menu-child-2'><i class='fa'></i></span></a></div>
+		<ul class="sub-menu">
+			<li id="menu-item-12144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Aedes mosquito survey (2021- ongoing)<span class='hfe-menu-toggle sub-arrow hfe-menu-child-3'><i class='fa'></i></span></a></div>
+			<ul class="sub-menu">
+				<li id="menu-item-10544" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/pre-monsoon-aedes-mosquito-survey-nmeatdcp-dghs/" class = "hfe-sub-menu-item">Pre-monsoon Aedes Mosquito Survey</a></li>
+				<li id="menu-item-10545" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/post-monsoon-aedes-mosquito-survey-nmeatdcp-dghs/" class = "hfe-sub-menu-item">Post-monsoon Aedes Mosquito Survey</a></li>
+			</ul>
+</li>
+			<li id="menu-item-10546" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/dengue-risk-tracker-the-recent-seven-days-dengue-situation-in-dhaka-city-corporations-nmeatdcp-dghs/" class = "hfe-sub-menu-item">Dengue Risk Tracker (2021)</a></li>
+			<li id="menu-item-10536" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/dengue-household-survey-nmeatdcp-dghs/" class = "hfe-sub-menu-item">Dengue Household Survey (2019)</a></li>
+			<li id="menu-item-10537" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/dengue-risk-zoning-nmeatdcp-dghs/" class = "hfe-sub-menu-item">Dengue risk zoning (2019)</a></li>
+			<li id="menu-item-10535" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/unmanned-aerial-vehicles-uav-for-aedes-mosquito-breeding-zone-detection-nmeatdcp-dghs/" class = "hfe-sub-menu-item">Drone driven imageries to identify breeding space in Dhaka (2019)</a></li>
+			<li id="menu-item-12850" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/hot/" class = "hfe-sub-menu-item">HOT</a></li>
+		</ul>
+</li>
+		<li id="menu-item-12105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_mega_second_col_width_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Rabies<span class='hfe-menu-toggle sub-arrow hfe-menu-child-2'><i class='fa'></i></span></a></div>
+		<ul class="sub-menu">
+			<li id="menu-item-10526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Mass Dog Vaccination Program (2018-Ongoing)<span class='hfe-menu-toggle sub-arrow hfe-menu-child-3'><i class='fa'></i></span></a></div>
+			<ul class="sub-menu">
+				<li id="menu-item-12384" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/project-summary/" class = "hfe-sub-menu-item">Project Summary</a></li>
+				<li id="menu-item-12152" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/animal-control-staff-training-2018-ongoing/" class = "hfe-sub-menu-item">Mass Dog Vaccination</a></li>
+				<li id="menu-item-12158" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/digital-map-making-and-demarcation-of-union-boundary-2020/" class = "hfe-sub-menu-item">Digital map making and demarcation of union boundary (2020)</a></li>
+				<li id="menu-item-12164" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/cdc-atlanta-training-2018/" class = "hfe-sub-menu-item">CDC Atlanta Training (2018)</a></li>
+				<li id="menu-item-12171" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/four-day-introductory-training-on-dog-catching-vaccination-for-national-team-2021/" class = "hfe-sub-menu-item">Four Day Introductory Training on Dog Catching &#038; Vaccination for National Team (2021)</a></li>
+			</ul>
+</li>
+		</ul>
+</li>
+		<li id="menu-item-12172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_mega_second_col_width_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Filariasis<span class='hfe-menu-toggle sub-arrow hfe-menu-child-2'><i class='fa'></i></span></a></div>
+		<ul class="sub-menu">
+			<li id="menu-item-12178" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://groupmappers.com/service/survey-for-assessing-the-prevalence-of-soil-transmitted-helminths-sth-among-school-aged-children-of-bangladesh-2018/" class = "hfe-sub-menu-item">Survey for assessing the prevalence of Soil-Transmitted Helminths (STH) among school-aged children of Bangladesh (2018)</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-12101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-sub-menu-item">Non Diseases<span class='hfe-menu-toggle sub-arrow hfe-menu-child-1'><i class='fa'></i></span></a></div>
+	<ul class="sub-menu">
+		<li id="menu-item-12205" class="menu-item menu-item-type-custom menu-item-object-custom stm_mega_second_col_width_default hfe-creative-menu"><a href="https://groupmappers.com/service/the-global-health-facilities-database-ghfd-2020-ongoing/" class = "hfe-sub-menu-item">The Global Health Facilities Database (GHFD) (2020- ongoing)</a></li>
+		<li id="menu-item-12853" class="menu-item menu-item-type-custom menu-item-object-custom stm_mega_second_col_width_default hfe-creative-menu"><a href="https://groupmappers.com/service/dscc-ward-29-secondary-information/" class = "hfe-sub-menu-item">DSCC Ward 29 Secondary Information</a></li>
+		<li id="menu-item-12851" class="menu-item menu-item-type-custom menu-item-object-custom stm_mega_second_col_width_default hfe-creative-menu"><a href="https://groupmappers.com/service/seactn/" class = "hfe-sub-menu-item">SEACTN</a></li>
+		<li id="menu-item-12852" class="menu-item menu-item-type-custom menu-item-object-custom stm_mega_second_col_width_default hfe-creative-menu"><a href="https://groupmappers.com/service/rrep/" class = "hfe-sub-menu-item">RREP</a></li>
+		<li id="menu-item-12854" class="menu-item menu-item-type-custom menu-item-object-custom stm_mega_second_col_width_default hfe-creative-menu"><a href="https://groupmappers.com/service/unicef-cambodia/" class = "hfe-sub-menu-item">UNICEF Cambodia</a></li>
+		<li id="menu-item-12780" class="menu-item menu-item-type-custom menu-item-object-custom stm_mega_second_col_width_default hfe-creative-menu"><a href="https://groupmappers.com/service/unfpa-2024-2025/" class = "hfe-sub-menu-item">UNFPA 2024-2025</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="#" class = "hfe-menu-item">Activities<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-10583" class="menu-item menu-item-type-custom menu-item-object-custom stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="https://groupmappers.com/volunteering/" class = "hfe-sub-menu-item">Volunteering</a></li>
+	<li id="menu-item-11977" class="menu-item menu-item-type-custom menu-item-object-custom stm_col_width_default stm_mega_cols_inside_default stm_mega_col_width_banner_default hfe-creative-menu"><a href="#" class = "hfe-sub-menu-item">GroupLetters</a></li>
+</ul>
+</li>
+<li id="menu-item-12846" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10355 current_page_item parent hfe-creative-menu"><a href="https://groupmappers.com/contact-us/" class = "hfe-menu-item">Contact Us</a></li>
+<li id="menu-item-12847" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://groupmappers.com/fundraising/" class = "hfe-menu-item">Donate Us</a></li>
+</ul> 
+				</nav>
+			</div>
+							</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e364a8d" data-id="e364a8d" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ae1ed36 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="ae1ed36" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="327" height="102" src="https://groupmappers.com/wp-content/uploads/2023/04/Group_MORU-removebg-preview.png" class="attachment-large size-large wp-image-12679" alt="" srcset="https://groupmappers.com/wp-content/uploads/2023/04/Group_MORU-removebg-preview.png 327w, https://groupmappers.com/wp-content/uploads/2023/04/Group_MORU-removebg-preview-300x94.png 300w" sizes="(max-width: 327px) 100vw, 327px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				</header>
+
+	<div id="main">
+    <div class="container">
+	<div class="content-area">
+
+		
+<article id="post-10355" class="consulting_elementor_wrapper post-10355 page type-page status-publish has-post-thumbnail hentry">
+
+	<div class="entry-content">
+					<div class="text_block consulting_elementor_wrapper clearfix">
+						<div data-elementor-type="wp-page" data-elementor-id="10355" class="elementor elementor-10355">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-171c6b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="171c6b6" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a3a0a68" data-id="a3a0a68" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-8244cbe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8244cbe" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d5d5100" data-id="d5d5100" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6470c78 elementor-widget elementor-widget-text-editor" data-id="6470c78" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p></p>
+<p><strong>Email: groupmappers@gmail.com </strong></p>
+<p> </p>
+<p><strong>Call Us: +8801793593083</strong></p>
+<p></p>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1bfe190" data-id="1bfe190" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b164ad0 elementor-widget elementor-widget-text-editor" data-id="b164ad0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Social Link</p>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-df8771e elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="df8771e" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-971b0fb" href="https://www.facebook.com/GroupMappers" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-cd49c70" href="https://twitter.com/GroupMappers" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-f7bb5f5" href="https://www.youtube.com/@groupmappers539" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i aria-hidden="true" class="fab fa-youtube"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-9da4709" href="https://www.linkedin.com/company/groupmappers/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i aria-hidden="true" class="fab fa-linkedin"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-f4a714d" href="https://www.instagram.com/groupmappers.bd/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c52b085 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c52b085" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5c3fd46" data-id="5c3fd46" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-28873e7 elementor-widget elementor-widget-text-editor" data-id="28873e7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bangladesh Office</p>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-3e1fb87 elementor-widget__width-inherit elementor-widget elementor-widget-google_maps" data-id="3e1fb87" data-element_type="widget" data-e-type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=6%2F20%20%281st%20floor%29%2C%20Block-%20E%2C%20Lalmatia%2C%20Mohammadpur%2C%20Dhaka%2C%20Bangladesh.&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
+					title="6/20 (1st floor), Block- E, Lalmatia, Mohammadpur, Dhaka, Bangladesh."
+					aria-label="6/20 (1st floor), Block- E, Lalmatia, Mohammadpur, Dhaka, Bangladesh."
+			></iframe>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6cae89e elementor-widget elementor-widget-text-editor" data-id="6cae89e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>House : 6/20 (1st floor), Block- E, Lalmatia, Mohammadpur, Dhaka, Bangladesh.</p>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+					</div>
+					</div>
+	
+</article>
+
+	</div>
+
+            </div> <!--.container-->
+        </div> <!--#main-->
+    </div> <!--.content_wrapper-->
+                
+            <footer id="footer" class="footer style_1">
+                
+                                                <div class="widgets_row">
+                        <div class="container">
+                            <div class="footer_widgets">
+                                <div class="row">
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                                                                                                                                                                                                                                                                                                                        <section id="block-134" class="widget widget_block">
+<h5 class="wp-block-heading"><strong>Contact Us</strong></h5>
+</section><section id="block-133" class="widget widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<p><strong>+8801793593083    </strong></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<p><strong>groupmappers@gmail.com</strong>                                                                 </p>
+</div></div>
+
+
+
+<p><strong><strong>                                          </strong></strong></p>
+</div></div>
+</section><section id="block-129" class="widget widget_block widget_text">
+<p><strong>                                          </strong></p>
+</section><section id="block-120" class="widget widget_block widget_text">
+<p></p>
+</section><section id="block-121" class="widget widget_block widget_text">
+<p></p>
+</section>                                        </div>
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                        <section id="block-104" class="widget widget_block">
+<h5 class="wp-block-heading"><strong>Bangladesh Office</strong></h5>
+</section><section id="block-132" class="widget widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<p>House : 6/20 (1st floor), Block- E, Lalmatia, Mohammadpur, Dhaka, Bangladesh.                            </p>
+</div></div>
+</section><section id="block-131" class="widget widget_block widget_text">
+<p></p>
+</section><section id="block-102" class="widget widget_block widget_text">
+<p></p>
+</section><section id="block-103" class="widget widget_block widget_text">
+<p></p>
+</section>                                        </div>
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                        <section id="block-136" class="widget widget_block"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7992043675736!2d90.36279497526628!3d23.754538788617534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bfc7dc9b9a4d%3A0xc64c0a82037bb028!2sGroupMappers!5e0!3m2!1sbn!2sbd!4v1705470581867!5m2!1sbn!2sbd" width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></section>                                        </div>
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                        <section id="block-107" class="widget widget_block">
+<h5 class="wp-block-heading"><strong>Important Links</strong></h5>
+</section><section id="nav_menu-7" class="widget widget_nav_menu"><div class="menu-temp-container"><ul id="menu-temp" class="menu"><li id="menu-item-10504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10504"><a href="https://groupmappers.com/">Home</a></li>
+<li id="menu-item-9623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9623"><a href="https://groupmappers.com/#11">Who we are</a></li>
+<li id="menu-item-9622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9622"><a href="https://groupmappers.com/#12">What We Do</a></li>
+<li id="menu-item-9619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9619"><a href="https://groupmappers.com/#15">Latest News</a></li>
+<li id="menu-item-9615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9615"><a href="https://groupmappers.com/#13">Projects</a></li>
+<li id="menu-item-10746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10746"><a href="#">Activities</a></li>
+</ul></div></section>                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                            
+                                    <div class="copyright_row border-top-hide">
+                        <div class="container">
+                            <div class="copyright_row_wr">
+                                                                                                            <div class="socials">
+                                            <ul>
+                                                                                                    <li>
+                                                        <a href="https://www.facebook.com/GroupMappers" target="_blank"
+                                                           class="social-facebook">
+                                                            <i class="fa fa-facebook"></i>
+                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://twitter.com/GroupMappers" target="_blank"
+                                                           class="social-twitter">
+                                                            <i class="fa fa-twitter"></i>
+                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://www.instagram.com/groupmappers.bd/" target="_blank"
+                                                           class="social-instagram">
+                                                            <i class="fa fa-instagram"></i>
+                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://www.linkedin.com/company/groupmappers/" target="_blank"
+                                                           class="social-linkedin">
+                                                            <i class="fa fa-linkedin"></i>
+                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://www.youtube.com/@groupmappers539" target="_blank"
+                                                           class="social-youtube">
+                                                            <i class="fa fa-youtube"></i>
+                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                        </div>
+                                                                                                                                        <div class="copyright">
+                                                                                    © 2026 Copyright | GroupMappers | All rights reserved.                                                                            </div>
+                                                            </div>
+                        </div>
+                    </div>
+                            </footer>
+                </div> <!--#wrapper-->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/consulting/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://groupmappers.com/wp-admin/admin-ajax.php";
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='consulting-header-button-css' href='https://groupmappers.com/wp-content/themes/consulting/assets/css/layouts/global_styles/header/button.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://groupmappers.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+<script type="text/javascript" src="https://groupmappers.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/groupmappers.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.3" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.8" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.8" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.0.3" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.0.3" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.0.3","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/groupmappers.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/groupmappers.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/groupmappers.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"23dd90694b","atomicFormsSendForm":"15e0f867c2"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":10355,"title":"Contact%20Us%20%E2%80%93%20GroupMappers","excerpt":"","featuredImage":"https:\/\/groupmappers.com\/wp-content\/uploads\/2023\/01\/321999833_501425571869219_7835864888382398404_n-1024x1024.jpg"}};
+//# sourceURL=elementor-frontend-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.3" id="elementor-frontend-js"></script>
+<script type="text/javascript" id="stm-gdpr-scripts-js-extra">
+/* <![CDATA[ */
+var stm_gdpr_vars = {"AjaxUrl":"https://groupmappers.com/wp-admin/admin-ajax.php","error_prefix":"","success":""};
+//# sourceURL=stm-gdpr-scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/stm-gdpr-compliance/assets/js/scripts.js?ver=6.9.4" id="stm-gdpr-scripts-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/themes/consulting/assets/js/jquery.fancybox.pack.js?ver=6.4.2" id="fancybox-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/themes/consulting/assets/js/bootstrap.min.js?ver=6.4.2" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/themes/consulting/assets/js/select2.min.js?ver=6.4.2" id="select2-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/themes/consulting/assets/js/custom.js?ver=6.4.2" id="consulting-custom-js"></script>
+<script type="text/javascript" id="stm-hfe-js-extra">
+/* <![CDATA[ */
+var consulting_ehf_position_11686 = {"id":"11686","header_view":"","header_position":""};
+var consulting_ehf_position_10355 = {"id":"10355","header_view":"","header_position":""};
+//# sourceURL=stm-hfe-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/themes/consulting/assets/js/stm-hfe.js?ver=6.4.2" id="stm-hfe-js"></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-40476021fb6e59177033.js" id="googlesitekit-events-provider-contact-form-7-js" defer></script>
+<script type="text/javascript" src="https://groupmappers.com/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.7.0" id="hfe-frontend-js-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://groupmappers.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://groupmappers.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+        <style type="text/css">
+        #footer .footer_widgets .widget .widget_title {
+            border-top: transparent !important;
+        }
+                body #footer,
+        body #footer div, body #footer div:before, body #footer div:after,
+        body #footer h1,body #footer h2,body #footer h3,body #footer h4,body #footer h5,body #footer h6,
+        body #footer p, body #footer p:before, body #footer p:after,
+        body #footer span, body #footer span:before, body #footer span:after {
+            color: rgba(250,255,250,1) !important;
+        }
+                        body #footer a:not([class^="social-"]) {
+            color: rgba(255,255,255,1) !important;
+        }
+                        body #footer a:not([class^="social-"]):hover {
+            color: rgba(38,34,165,1) !important;
+        }
+                                body #footer {
+            background-image: url(https://groupmappers.com/wp-content/uploads/2023/03/insurance-footer-background.png) !important;
+            background-size: cover;
+            background-position: 50% 0;
+        }
+                body #footer::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(74,122,191,0.59) !important;
+        }
+                    </style>
+
+</body>
+</html>

@@ -6,6 +6,7 @@
   "scripts": {
     "download:images": "node downloader.js",
     "crawl:site": "node siteCrawler.js",
+    "sync:site": "node siteSync.js",
     "dev": "node --watch server.js",
     "start": "node server.js",
     "check": "node --check server.js && node --check downloader.js"

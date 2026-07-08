@@ -22,7 +22,7 @@ const founders = [
 export default function About({ images }) {
   return (
     <main className="bg-white">
-      <section className="section-shell grid gap-12 py-20 lg:grid-cols-[0.95fr_1.05fr] lg:py-28">
+      <section id="who-we-are" className="section-shell grid gap-12 py-20 lg:grid-cols-[0.95fr_1.05fr] lg:py-28">
         <div>
           <p className="eyebrow">About Us</p>
           <h1 className="mt-4 text-5xl font-black leading-tight tracking-[-0.05em] text-gm-navy">
@@ -37,7 +37,7 @@ export default function About({ images }) {
           <p className="mt-5 text-lg leading-8 text-slate-600">
             GroupMappers supports humanitarian and public-health mapping by combining crowdsourced mapping, data analysis, field knowledge, and volunteer action to improve public health outcomes.
           </p>
-          <div className="mt-8 rounded-[2rem] bg-gm-mint p-7">
+          <div id="mission" className="mt-8 rounded-[2rem] bg-gm-mint p-7">
             <p className="eyebrow">Mission</p>
             <blockquote className="mt-3 text-2xl font-black leading-snug tracking-[-0.03em] text-gm-navy">
               “Empowering communities through the utilization of crowdsourced mapping and data analysis for enhanced public health outcomes.”
@@ -51,7 +51,7 @@ export default function About({ images }) {
         />
       </section>
 
-      <section className="bg-slate-50 py-20">
+      <section id="founders" className="bg-slate-50 py-20">
         <div className="section-shell">
           <p className="eyebrow">Founders</p>
           <h2 className="mt-4 text-4xl font-black tracking-[-0.04em] text-gm-navy">Founders and leadership</h2>
